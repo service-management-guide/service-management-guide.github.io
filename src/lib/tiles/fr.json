@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Comprendre ce qu'est un bon service",
+  "text": "Une vision claire et sans jargon de la gestion des services, pour aider vos clients à tirer une vraie valeur de ce que fournit votre équipe.",
+  "link": "Lire sur la gestion des services"
+ },
+ {
+  "title": "Rétablir le service vite en cas de panne",
+  "text": "Gérez les pannes calmement et rapidement, remettez chacun au travail et tirez-en assez de leçons pour éviter que le problème ne revienne.",
+  "link": "Lire sur la gestion des incidents"
+ },
+ {
+  "title": "Changer en sécurité, sans lourdeur administrative",
+  "text": "Faites avancer les changements vite, avec les bons contrôles, pour obtenir rapidité et stabilité au lieu de devoir choisir.",
+  "link": "Lire sur l'habilitation des changements"
+ },
+ {
+  "title": "Aider chacun à trouver seul les réponses",
+  "text": "Capitalisez ce que sait votre équipe pour que clients et collègues résolvent plus vite leurs problèmes et que moins de demandes arrivent au support.",
+  "link": "Lire sur la gestion des connaissances"
+ },
+ {
+  "title": "Utiliser l'IA à bon escient dans vos services",
+  "text": "Des façons pratiques et prudentes d'appliquer l'IA à vos services, pour gagner du temps sans risquer la qualité ni la confiance.",
+  "link": "Lire sur l'IA dans la gestion des services"
+ },
+ {
+  "title": "Mesurer ce qui compte vraiment",
+  "text": "Choisissez quelques mesures et rapports utiles qui montrent si les clients sont mieux servis et où progresser ensuite.",
+  "link": "Lire sur la mesure et le reporting"
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Entender cómo es un buen servicio",
+  "text": "Una imagen clara y sin jerga de la gestión de servicios, para que ayude a sus clientes a obtener valor real de lo que ofrece su equipo.",
+  "link": "Leer sobre la gestión de servicios"
+ },
+ {
+  "title": "Restablecer el servicio rápido cuando algo falla",
+  "text": "Gestione las caídas con calma y rapidez, devuelva a las personas al trabajo y aprenda lo suficiente para que el problema no se repita.",
+  "link": "Leer sobre la gestión de incidentes"
+ },
+ {
+  "title": "Hacer cambios con seguridad y sin burocracia",
+  "text": "Haga avanzar los cambios con rapidez y los controles adecuados, para tener velocidad y estabilidad en lugar de elegir una.",
+  "link": "Leer sobre la habilitación de cambios"
+ },
+ {
+  "title": "Ayudar a las personas a encontrar respuestas por sí mismas",
+  "text": "Reúna lo que sabe su equipo para que clientes y colegas resuelvan problemas antes y lleguen menos solicitudes al servicio de asistencia.",
+  "link": "Leer sobre la gestión del conocimiento"
+ },
+ {
+  "title": "Usar la IA con criterio en sus servicios",
+  "text": "Formas prácticas y prudentes de aplicar la IA a sus servicios, para ahorrar esfuerzo sin poner en riesgo la calidad ni la confianza.",
+  "link": "Leer sobre la IA en la gestión de servicios"
+ },
+ {
+  "title": "Medir lo que de verdad importa",
+  "text": "Elija unas pocas medidas e informes útiles que muestren si los clientes están mejor atendidos y dónde mejorar a continuación.",
+  "link": "Leer sobre medición e informes"
+ }
+]

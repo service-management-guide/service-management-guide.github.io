@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Understand what good service looks like",
+  "text": "Get a clear, jargon-free picture of service management so you can help customers get real value from what your team provides.",
+  "link": "Read about service management"
+ },
+ {
+  "title": "Restore service fast when things break",
+  "text": "Handle outages calmly and quickly, get people back to work, and learn enough to stop the same problem returning.",
+  "link": "Read about incident management"
+ },
+ {
+  "title": "Make changes safely without red tape",
+  "text": "Move changes through quickly with the right checks, so you get speed and stability instead of choosing one.",
+  "link": "Read about change enablement"
+ },
+ {
+  "title": "Help people find answers themselves",
+  "text": "Capture what your team knows so customers and colleagues solve problems faster and fewer requests reach the desk.",
+  "link": "Read about knowledge management"
+ },
+ {
+  "title": "Use AI sensibly in your services",
+  "text": "See practical, careful ways to apply AI to your services, so it saves effort without putting quality or trust at risk.",
+  "link": "Read about AI in service management"
+ },
+ {
+  "title": "Measure what really matters",
+  "text": "Choose a few useful measures and reports that show whether customers are better served and where to improve next.",
+  "link": "Read about measurement and reporting"
+ }
+]

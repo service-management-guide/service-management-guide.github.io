@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Förstå hur bra service ser ut",
+  "text": "En tydlig bild av tjänstehantering utan facktermer, så att du kan hjälpa kunder att få verkligt värde av det ditt team levererar.",
+  "link": "Läs om tjänstehantering"
+ },
+ {
+  "title": "Återställ tjänsten snabbt när något går sönder",
+  "text": "Hantera driftstörningar lugnt och snabbt, få folk tillbaka i arbete och lär dig nog för att problemet inte ska återkomma.",
+  "link": "Läs om incidenthantering"
+ },
+ {
+  "title": "Gör ändringar säkert utan byråkrati",
+  "text": "Få ändringar att gå snabbt igenom med rätt kontroller, så att du får både fart och stabilitet i stället för att välja.",
+  "link": "Läs om ändringsmöjliggörande"
+ },
+ {
+  "title": "Hjälp människor hitta svar själva",
+  "text": "Samla det ditt team vet så att kunder och kollegor löser problem snabbare och färre ärenden når servicedesken.",
+  "link": "Läs om kunskapshantering"
+ },
+ {
+  "title": "Använd AI förnuftigt i dina tjänster",
+  "text": "Praktiska, försiktiga sätt att använda AI i dina tjänster, så att det sparar arbete utan att riskera kvalitet eller förtroende.",
+  "link": "Läs om AI i tjänstehantering"
+ },
+ {
+  "title": "Mät det som verkligen räknas",
+  "text": "Välj några användbara mått och rapporter som visar om kunderna får bättre service och var du kan förbättra härnäst.",
+  "link": "Läs om mätning och rapportering"
+ }
+]

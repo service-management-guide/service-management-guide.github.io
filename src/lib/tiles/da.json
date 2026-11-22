@@ -1,0 +1,32 @@
+[
+ {
+  "title": "Forstå, hvordan god service ser ud",
+  "text": "Et klart billede af servicestyring uden fagsprog, så du kan hjælpe kunder med at få reel værdi af det, dit team leverer.",
+  "link": "Læs om servicestyring"
+ },
+ {
+  "title": "Genopret servicen hurtigt, når noget går i stykker",
+  "text": "Håndter nedbrud roligt og hurtigt, få folk tilbage i arbejde, og lær nok til at forhindre, at problemet vender tilbage.",
+  "link": "Læs om hændelseshåndtering"
+ },
+ {
+  "title": "Lav ændringer sikkert uden bureaukrati",
+  "text": "Få ændringer hurtigt igennem med de rette kontroller, så du får både fart og stabilitet i stedet for at vælge.",
+  "link": "Læs om change enablement"
+ },
+ {
+  "title": "Hjælp folk med selv at finde svar",
+  "text": "Saml det, dit team ved, så kunder og kolleger løser problemer hurtigere, og færre henvendelser når servicedesken.",
+  "link": "Læs om videnstyring"
+ },
+ {
+  "title": "Brug AI fornuftigt i dine services",
+  "text": "Praktiske, forsigtige måder at bruge AI i dine services, så det sparer arbejde uden at true kvalitet eller tillid.",
+  "link": "Læs om AI i servicestyring"
+ },
+ {
+  "title": "Mål det, der virkelig tæller",
+  "text": "Vælg nogle få brugbare målinger og rapporter, der viser, om kunderne bliver bedre betjent, og hvor du kan forbedre dig næste gang.",
+  "link": "Læs om måling og rapportering"
+ }
+]
